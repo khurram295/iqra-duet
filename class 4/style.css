@@ -1,0 +1,91 @@
+/* #student{
+font-family: 'Times New Roman', Times, serif;
+border-collapse: collapse;
+width: 100%;
+}
+
+#student th , td{
+border: 1px solid #fc0a01;
+padding: 3px;
+}
+
+#student tr:nth-child(even){
+    background-color: aqua;
+}
+
+#student th  {
+    
+padding-top:10px ;
+padding-bottom: 12px;
+text-align: center;
+color: antiquewhite !important;
+background-color: blue !important;
+
+} */
+
+
+
+
+/* .relative{
+position: relative;
+border: 2px solid rgb(255, 8, 8);
+border-radius: 2px;
+background-color: blueviolet;
+width: 50%;
+height: 300px;
+}
+
+.absolute{
+    width: 100%;
+    background-color: brown;
+    position: absolute;
+border: 2px solid rgb(49, 0, 128);
+border-radius: 2px;
+height: 5000px;
+} */
+
+
+/* p{
+height: 75px;
+background-color: bisque;
+overflow:inherit;
+} */
+
+.box{
+background: #000;
+width: 100%;
+height: 55px;
+margin: auto;
+
+
+}
+
+.navbar ul li a {
+text-decoration: none;
+color: #fdfdfd;
+font-size: medium;
+font-weight: bolder;
+
+list-style: none;
+}
+.navbar ul {
+display: flex;
+flex-direction:row;
+
+
+}
+.navbar ul li {
+    display: flex;
+    flex-direction:row;
+  list-style: none;
+margin: 0px 14px;
+    }
+
+
+    .btn{
+float: right;
+
+
+    }
+
+
